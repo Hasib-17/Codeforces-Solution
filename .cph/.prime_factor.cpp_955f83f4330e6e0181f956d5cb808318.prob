@@ -1,0 +1,1 @@
+{"name":"Local: prime_factor","url":"c:\\Users\\Hasibur Rahman\\OneDrive\\Desktop\\C++\\prime_factor.cpp","tests":[{"id":1677417271666,"input":"9999998","output":""},{"id":1677482592900,"input":"50","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Hasibur Rahman\\OneDrive\\Desktop\\C++\\prime_factor.cpp","group":"local","local":true}
